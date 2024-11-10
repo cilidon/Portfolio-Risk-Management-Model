@@ -25,6 +25,12 @@ Conducted stress tests based on historical and hypothetical scenarios
 - DBC (Invesco DB Commodity Index Tracking Fund): 10%
 
 ## Executive Summary
+
+
+![newplot](https://github.com/user-attachments/assets/0d52f179-2565-4250-ae81-e26954c2bd40)
+
+![monte_carlo](https://github.com/user-attachments/assets/dae89a89-6bad-4994-929b-21403470fecd)
+
 The risk management model provides key insights into the portfolio's risk profile:
 - Value at Risk (VaR): 95% 1-day VaR of $16,300.21 (1.63% of portfolio value)
 - Stress Test Results: Varied portfolio performance under different market conditions
