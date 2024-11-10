@@ -1,6 +1,6 @@
 # Portfolio Risk Management Model
 
-## Project Overview
+## Overview
 This project implements a comprehensive risk management model for a diversified investment portfolio. It demonstrates advanced financial analysis techniques, including Value at Risk (VaR) calculation using Monte Carlo simulations, stress testing, and interactive data visualization.
 
 ## Background
