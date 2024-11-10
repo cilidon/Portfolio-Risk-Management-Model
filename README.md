@@ -24,6 +24,8 @@ Conducted stress tests based on historical and hypothetical scenarios
 - GLD (SPDR Gold Shares): 10%
 - DBC (Invesco DB Commodity Index Tracking Fund): 10%
 
+  Total Value = $1,000,000
+
 ## Executive Summary
 
 
